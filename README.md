@@ -22,12 +22,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-[![MauricioDullius' GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauricioDullius&show_icons=true&theme=dark)](https://github.com/MauricioDullius)
-
----
-
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciodullius/) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mauriciodullius7@gmail.com)
