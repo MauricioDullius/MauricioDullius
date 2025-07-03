@@ -1,42 +1,33 @@
-<h1 align="center">Olá! Eu sou o Maurício Dullius 👋</h1>
-
-<p align="center">
-  Desenvolvedor Backend | Java • Spring Boot • Clean Architecture  
-</p>
-<p align="center">
-  📍 Lajeado, RS - Brasil • 📫 mauriciodullius7@gmail.com
-</p>
+# 👋 Olá! Eu sou o Maurício Dullius
 
 ---
 
-### 🚀 Tecnologias que uso
+### Desenvolvedor Backend | Java • Spring Boot • Clean Architecture
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-</p>
+📍 Lajeado, RS - Brasil • 📫 mauriciodullius7@gmail.com
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MauricioDullius&show_icons=true&theme=github_dark&hide=issues&count_private=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioDullius&layout=compact&theme=github_dark" width="330"/>
-</p>
+### 💼 Desenvolvedor de Software na Interact Solutions  
+### 🎓 Graduado em Análise e Desenvolvimento de Sistemas - Univates
 
 ---
 
-### 🌐 Onde me encontrar
+## 🚀 Tecnologias que uso
 
-<p align="center">
-  <a href="https://linkedin.com/in/mauriciodullius">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mauriciodullius7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=flat-square&logo=springboot)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+[![MauricioDullius' GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauricioDullius&show_icons=true&theme=dark)](https://github.com/MauricioDullius)
+
+---
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciodullius/) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mauriciodullius7@gmail.com)
